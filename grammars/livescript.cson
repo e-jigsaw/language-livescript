@@ -3,6 +3,7 @@
   'ls'
   'Slakefile'
   'ls.erb'
+  'lson'
 ]
 'firstLineMatch': '^#!.*\\bls'
 'foldingStartMarker': '^\\s*class\\s+\\S.*$|.*(->|=>)\\s*$|.*[\\[{]\\s*$'
